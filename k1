@@ -7,4 +7,7 @@ i am doing this from branch1.
 i am doing this from branch2
 hi dear.
 i am doing from git hub.
+<<<<<<< HEAD
 i am doing this from local repo.
+=======
+>>>>>>> 302f8b2d621f3893eef445c01504c4ea3c2c67ce
